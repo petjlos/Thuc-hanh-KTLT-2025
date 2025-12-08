@@ -1,3 +1,5 @@
+print("Sinh viên : Lê Văn Nam")
+print("Mssv : 245752021610121")
 a, b = 1, 2
 total = 0
 print (a,end = " ")
