@@ -1,5 +1,4 @@
-print("Sinh viên : Lê Văn Nam")
-print("Mssv : 245752021610121")
+
 from math import *
 
 pi= 3.14
@@ -12,6 +11,7 @@ if r <= 0:
     print('Error')
 else:
     Tinh(r)
+
 
 
 
