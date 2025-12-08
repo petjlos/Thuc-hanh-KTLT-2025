@@ -1,5 +1,4 @@
-print("Sinh viên : Lê Văn Nam")
-print("Mssv : 245752021610121")
+
 i =1
 
 for j in range (2, 10):
@@ -7,3 +6,4 @@ for j in range (2, 10):
     print(i, "/", j)
 
     print (i/j)
+
