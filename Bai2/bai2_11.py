@@ -1,5 +1,4 @@
-print("Sinh viên : Lê Văn Nam")
-print("Mssv : 245752021610121")
+
 l = [1, 'python',4 , 7]
 k = ['cse', 2, 'guntu', 8]
 m = []
