@@ -1,3 +1,5 @@
+print("Sinh viên : Lê Văn Nam")
+print("Mssv : 245752021610121")
 from math import *
 
 def get_sum(*num):
@@ -8,3 +10,4 @@ def get_sum(*num):
     return tmp
 result = get_sum(1, 2, 3, 4, 5)
 print(result)
+
