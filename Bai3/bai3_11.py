@@ -1,5 +1,4 @@
-print("Sinh viên : Lê Văn Nam")
-print("Mssv : 245752021610121")
+
 from math import*
 #x là lãi đơn
 #y là kì 
@@ -10,3 +9,4 @@ def benefit(n,t,k):
 
 
 print(benefit(x,y,z))
+
