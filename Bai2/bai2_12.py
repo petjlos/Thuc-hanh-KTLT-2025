@@ -1,3 +1,5 @@
+print("Sinh viên : Lê Văn Nam")
+print("Mssv : 245752021610121")
 from math import*
 import re
 
@@ -19,4 +21,5 @@ for p in items:
     elif re.search("\s",p):
        continue
     value.append(p)
+
 print (",".join(value))
