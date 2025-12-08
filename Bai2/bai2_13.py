@@ -1,5 +1,4 @@
-print("Sinh viên : Lê Văn Nam")
-print("Mssv : 245752021610121")
+
 from math import*
 
 a, b, c = map(int, input().split())
@@ -16,3 +15,4 @@ else:
     print((-b + sqrt(d))/(2*a))
 
     print((-b - sqrt(d))/(2*a))
+
